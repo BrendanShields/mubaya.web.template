@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import 'antd/dist/antd.css';
+import 'react-grid-layout/css/styles.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
